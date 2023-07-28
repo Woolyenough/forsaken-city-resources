@@ -23,3 +23,5 @@ jobs:
         git add -A
         git commit -m "automated resource pack zip"
         git push --force
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
