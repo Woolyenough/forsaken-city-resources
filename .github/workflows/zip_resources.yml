@@ -10,6 +10,8 @@ jobs:
       run: |
         git config --global user.name "Woolyenough"
         git config --global user.email "${{ secrets.EMAIL }}"
+        git config --global credential.helper store
+        git remote set-url origin https://github-actions-bot:${{ secrets.BOT_PAT_TOKEN }}@github.com/Woolyenough/forsaken-city-resources.git
         git config pull.rebase false
         git pull
         rm -f release.zip
