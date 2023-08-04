@@ -27,6 +27,83 @@
             "ascent": 9,
             "height": 9,
             "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE110"]
         }
     ]
 }
