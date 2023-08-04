@@ -32,7 +32,7 @@
             "type": "bitmap",
             "file": "minecraft:particle/heart.png",
             "ascent": 9,
-            "height": 9,
+            "height": 8,
             "chars": ["\uE004"]
         },
         {
