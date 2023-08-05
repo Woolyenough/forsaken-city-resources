@@ -37,6 +37,20 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/headstone_one.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/headstone_two.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/blank.png",
             "ascent": 9,
             "height": 9,
