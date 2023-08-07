@@ -2,21 +2,21 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:custom/tnt.png",
+            "file": "minecraft:icons/tnt.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bow.png",
+            "file": "minecraft:icons/bow.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/trident.png",
+            "file": "minecraft:icons/trident.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE002"]
@@ -37,14 +37,14 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/headstone_one.png",
+            "file": "minecraft:icons/headstone_one.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/headstone_two.png",
+            "file": "minecraft:icons/headstone_two.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE007"]
