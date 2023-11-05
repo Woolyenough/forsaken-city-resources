@@ -16,7 +16,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'release.zip'
+        filename: 'resources.zip'
         exclusions: '*.git*'
     - name: push changes to remote
       run: |
