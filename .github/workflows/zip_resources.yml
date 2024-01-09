@@ -19,7 +19,7 @@ jobs:
       run: sudo apt-get install zip
 
     - name: Zip the repository
-      run: zip -r release.zip . -x "*.git*"
+      run: zip -r resources.zip . -x "*.git*"
 
     - name: Checkout archive branch
       uses: actions/checkout@v2
@@ -29,11 +29,11 @@ jobs:
 
     - name: Replace ZIP in archive branch
       run: |
-        mv release.zip latest-release/
+        mv resources.zip latest-release/
         cd latest-release
         git config user.name "FC Resources"
-        git config user.email "Woolyenough@users.noreply.github.com"
-        git add release.zip
+        git config user.email "FC_Resources@users.noreply.github.com"
+        git add resources.zip
         git commit -m "Update resoure pack ZIP"
         git push
 
